@@ -7,7 +7,7 @@ I'm a passionate full-stack web developer with hands-on experience in building m
 - 👀 I’m interested in **web development**, **serverless architecture**, and **e-commerce platforms**
 - 🌱 I’m currently learning **Laravel with Shopify integration** and diving deeper into **Shopify app development**
 - 💞️ I’m looking to collaborate on **open-source projects**, **SaaS platforms**, and **Shopify-based applications**
-- 📫 How to reach me: aurangzibbuzdar32@gmail.com
+- 📫 How to reach me: aurangzaibbuzdar32@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love solving real-world problems with code and exploring new technologies every chance I get!
 
